@@ -1,4 +1,5 @@
-# End-to-End DevSecOps Pipeline: SonarQube, TRIVY Scans, ArgoCD Deployment, and Monitoring with Prometheus and Grafana"
+# Shell Script for Server Backup and Restore Automation with AWS CLI and S3 Bucket
+
 ![Project Image](./local-dir.png)
 ![Project Image](./bash-backup.png)
 ![Project Image](./s3.png)
